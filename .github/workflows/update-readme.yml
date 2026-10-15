@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh recent projects
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+        run: python3 scripts/update_recent.py
+      - name: Commit
+        env:
+          GIT_NAME: ${{ vars.COMMIT_NAME }}
+          GIT_EMAIL: ${{ vars.COMMIT_EMAIL }}
+        run: |
+          git config user.name "${GIT_NAME:-github-actions[bot]}"
+          git config user.email "${GIT_EMAIL:-41898282+github-actions[bot]@users.noreply.github.com}"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: 每日更新最近在忙"
+          git push
