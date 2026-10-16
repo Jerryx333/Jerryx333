@@ -36,13 +36,13 @@
 ### 🔥 最近在忙
 
 <!-- RECENT:START -->
-- [aiw](https://github.com/Jerryx333/aiw) · 2026-10-15：让主模型只做规划和把关，体力活交给别的模型：派单、顶替、会诊、改进缓冲区
+- [aiw](https://github.com/Jerryx333/aiw) · 2026-10-16：让主模型只做规划和把关，体力活交给别的模型：派单、顶替、会诊、改进缓冲区
+- [tinystat](https://github.com/Jerryx333/tinystat) · 2026-10-16：A small native macOS menu-bar monitor for CPU, GPU, memory and temperatures.
+- [tinybar](https://github.com/Jerryx333/tinybar) · 2026-10-16：A planned lightweight native macOS menu-bar manager. Design stage; no runnable app yet.
 - [aiw-board](https://github.com/Jerryx333/aiw-board) · 2026-10-15：看清 aiw 派出去的活：谁在跑、跑了多久、成没成、哪个座位被熔断；终端看板，外加 Claude Code 状态栏和 Codex 底栏
 - [agent-use](https://github.com/Jerryx333/agent-use) · 2026-10-14：Local, vendor-neutral dispatcher for text-generation agents: ordered fallback, per-route models, review-first results.
-- [agent-use-adapters](https://github.com/Jerryx333/agent-use-adapters) · 2026-10-13：Ready-to-use Codex, Claude Code, and OpenCode adapters for agent-use
-- [vscode-console-helper](https://github.com/Jerryx333/vscode-console-helper) · 2026-10-12：20k+ 开发者正在使用的，一键输出 console.log 的 vscode 插件
 
-<sub>每天自动更新 · 2026-10-15</sub>
+<sub>每天自动更新 · 2026-10-16</sub>
 <!-- RECENT:END -->
 
 ---
