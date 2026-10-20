@@ -36,13 +36,13 @@
 ### 🔥 最近在忙
 
 <!-- RECENT:START -->
-- [aiw](https://github.com/Jerryx333/aiw) · 2026-10-17：Fewer main-session tokens for Claude Code / Codex: hand off code reading, edits and tests to another model; the main session only writes the task and verifies.
+- [aiw](https://github.com/Jerryx333/aiw) · 2026-10-19：Fewer main-session tokens for Claude Code / Codex: hand off code reading, edits and tests to another model; the main session only writes the task and verifies.
 - [voice-buddy](https://github.com/Jerryx333/voice-buddy) · 2026-10-16
 - [agent-use-adapters](https://github.com/Jerryx333/agent-use-adapters) · 2026-10-16：Ready-to-use Codex, Claude Code, and OpenCode adapters for agent-use
 - [agent-use](https://github.com/Jerryx333/agent-use) · 2026-10-16：Local, vendor-neutral dispatcher for text-generation agents: ordered fallback, per-route models, review-first results.
 - [aiw-board](https://github.com/Jerryx333/aiw-board) · 2026-10-16：看清 aiw 派出去的活：谁在跑、跑了多久、成没成、哪个座位被熔断；终端看板，外加 Claude Code 状态栏和 Codex 底栏
 
-<sub>每天自动更新 · 2026-10-19</sub>
+<sub>每天自动更新 · 2026-10-20</sub>
 <!-- RECENT:END -->
 
 ---
