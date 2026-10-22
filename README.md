@@ -42,7 +42,7 @@
 - [agent-use](https://github.com/Jerryx333/agent-use) · 2026-10-16：Local, vendor-neutral dispatcher for text-generation agents: ordered fallback, per-route models, review-first results.
 - [aiw-board](https://github.com/Jerryx333/aiw-board) · 2026-10-16：看清 aiw 派出去的活：谁在跑、跑了多久、成没成、哪个座位被熔断；终端看板，外加 Claude Code 状态栏和 Codex 底栏
 
-<sub>每天自动更新 · 2026-10-21</sub>
+<sub>每天自动更新 · 2026-10-22</sub>
 <!-- RECENT:END -->
 
 ---
