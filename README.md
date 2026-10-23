@@ -36,13 +36,13 @@
 ### 🔥 最近在忙
 
 <!-- RECENT:START -->
-- [aiw](https://github.com/Jerryx333/aiw) · 2026-10-19：Fewer main-session tokens for Claude Code / Codex: hand off code reading, edits and tests to another model; the main session only writes the task and verifies.
 - [voice-buddy](https://github.com/Jerryx333/voice-buddy) · 2026-10-16
-- [agent-use-adapters](https://github.com/Jerryx333/agent-use-adapters) · 2026-10-16：Ready-to-use Codex, Claude Code, and OpenCode adapters for agent-use
-- [agent-use](https://github.com/Jerryx333/agent-use) · 2026-10-16：Local, vendor-neutral dispatcher for text-generation agents: ordered fallback, per-route models, review-first results.
-- [aiw-board](https://github.com/Jerryx333/aiw-board) · 2026-10-16：看清 aiw 派出去的活：谁在跑、跑了多久、成没成、哪个座位被熔断；终端看板，外加 Claude Code 状态栏和 Codex 底栏
+- [tinystat](https://github.com/Jerryx333/tinystat) · 2026-10-16：A small native macOS menu-bar monitor for CPU, GPU, memory and temperatures.
+- [tinybar](https://github.com/Jerryx333/tinybar) · 2026-10-16：A planned lightweight native macOS menu-bar manager. Design stage; no runnable app yet.
+- [vscode-console-helper](https://github.com/Jerryx333/vscode-console-helper) · 2026-10-12：20k+ 开发者正在使用的，一键输出 console.log 的 vscode 插件
+- [omp-codex-theme](https://github.com/Jerryx333/omp-codex-theme) · 2026-10-10：Codex CLI-inspired theme for oh-my-pi (omp) / pi coding agent
 
-<sub>每天自动更新 · 2026-10-22</sub>
+<sub>每天自动更新 · 2026-10-23</sub>
 <!-- RECENT:END -->
 
 ---
