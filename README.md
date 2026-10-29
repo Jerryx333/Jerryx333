@@ -42,7 +42,7 @@
 - [vscode-console-helper](https://github.com/Jerryx333/vscode-console-helper) · 2026-10-12：20k+ 开发者正在使用的，一键输出 console.log 的 vscode 插件
 - [omp-codex-theme](https://github.com/Jerryx333/omp-codex-theme) · 2026-10-10：Codex CLI-inspired theme for oh-my-pi (omp) / pi coding agent
 
-<sub>每天自动更新 · 2026-10-28</sub>
+<sub>每天自动更新 · 2026-10-29</sub>
 <!-- RECENT:END -->
 
 ---
