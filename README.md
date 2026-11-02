@@ -42,7 +42,7 @@
 - [aiw](https://github.com/Jerryx333/aiw) · 2026-10-30：Fewer main-session tokens for Claude Code / Codex: hand off code reading, edits and tests to another model; the main session only writes the task and verifies.
 - [voice-buddy](https://github.com/Jerryx333/voice-buddy) · 2026-10-16
 
-<sub>每天自动更新 · 2026-11-01</sub>
+<sub>每天自动更新 · 2026-11-02</sub>
 <!-- RECENT:END -->
 
 ---
