@@ -42,7 +42,7 @@
 - [agent-use](https://github.com/Jerryx333/agent-use) · 2026-10-30：Local, vendor-neutral dispatcher for text-generation agents: ordered fallback, per-route models, review-first results.
 - [voice-buddy](https://github.com/Jerryx333/voice-buddy) · 2026-10-16
 
-<sub>每天自动更新 · 2026-11-03</sub>
+<sub>每天自动更新 · 2026-11-04</sub>
 <!-- RECENT:END -->
 
 ---
