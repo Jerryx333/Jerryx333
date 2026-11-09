@@ -42,7 +42,7 @@
 - [agent-use-adapters](https://github.com/Jerryx333/agent-use-adapters) · 2026-10-30：Ready-to-use Codex, Claude Code, and OpenCode adapters for agent-use
 - [agent-use](https://github.com/Jerryx333/agent-use) · 2026-10-30：Local, vendor-neutral dispatcher for text-generation agents: ordered fallback, per-route models, review-first results.
 
-<sub>每天自动更新 · 2026-11-08</sub>
+<sub>每天自动更新 · 2026-11-09</sub>
 <!-- RECENT:END -->
 
 ---
