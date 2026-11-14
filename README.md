@@ -42,7 +42,7 @@
 - [1password-use](https://github.com/Jerryx333/1password-use) · 2026-11-05：A 1Password CLI for AI agents: masked by default, secrets only to child processes, a separate vault for agents. Wraps the official op.
 - [aiw-board](https://github.com/Jerryx333/aiw-board) · 2026-10-30：看清 aiw 派出去的活：谁在跑、跑了多久、成没成、哪个座位被熔断；终端看板，外加 Claude Code 状态栏和 Codex 底栏
 
-<sub>每天自动更新 · 2026-11-13</sub>
+<sub>每天自动更新 · 2026-11-14</sub>
 <!-- RECENT:END -->
 
 ---
